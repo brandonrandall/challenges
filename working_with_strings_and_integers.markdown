@@ -15,7 +15,7 @@ l = "Last"
 
 Use *only* the "string concatenation" technique to complete the following:
 
-1. What code can you write to output the string `"FirstLast"`?
+1. What code can you write to output the string `"FirstLast"`? f+l/ #{f+l}
 2. What code can you write to output the string `"LastFirst"`?
 3. What code can you write to output the string `"First Last"`?
 4. What code can you write to output the string `"Last First Last First"`?
